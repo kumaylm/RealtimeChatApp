@@ -12,10 +12,11 @@ A realtime chat app where users can enter a chat room using their name and the n
 - JavaScript (ReactJS and NodeJS)
 
 ## Screenshots
-![Screenshot (1)](https://user-images.githubusercontent.com/78344685/173985186-9ae0e60a-786a-4c3d-9873-fdba699f3b4b.png)
-![Screenshot (2)](Screenshot (2).png)
-![Screenshot (3)](Screenshot (3).png)
-![Screenshot (4)](Screenshot (4).png)
-![Screenshot (5)](Screenshot (5).png)
-![Screenshot (6)](Screenshot (6).png)
-![Screenshot (7)](Screenshot (7).png)
+![Screenshot (7)](https://user-images.githubusercontent.com/78344685/173985363-c64e93e6-52a1-487a-aac2-af5a43efd059.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/78344685/173985362-cbe43e9c-a643-4b68-9723-0a5fbd350ddc.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/78344685/173985360-1b04f5ef-29a2-4bca-848a-8ff7aef641ba.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/78344685/173985359-e45b76b5-8d65-4d30-8283-16f35f3310cf.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/78344685/173985358-a1c0cf0b-fe61-4432-b168-a4412d38406e.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/78344685/173985357-cd9a9436-b98d-45dd-a288-e52041991d45.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/78344685/173985353-c5922d96-35b6-4355-bec2-8d1a3fa41aed.png)
+

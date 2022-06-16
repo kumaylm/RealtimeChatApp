@@ -12,10 +12,10 @@ A realtime chat app where users can enter a chat room using their name and the n
 - JavaScript (ReactJS and NodeJS)
 
 ## Screenshots
-![1](Screenshot (1).png)
-![2](Screenshot (2).png)
-![3](Screenshot (3).png)
-![4](Screenshot (4).png)
-![5](Screenshot (5).png)
-![6](Screenshot (6).png)
-![7](Screenshot (7).png)
+![Screenshot (1).png](Screenshot (1).png)
+![Screenshot (2).png](Screenshot (2).png)
+![Screenshot (3).png](Screenshot (3).png)
+![Screenshot (4).png](Screenshot (4).png)
+![Screenshot (5).png](Screenshot (5).png)
+![Screenshot (6).png](Screenshot (6).png)
+![Screenshot (7).png](Screenshot (7).png)

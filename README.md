@@ -12,7 +12,7 @@ A realtime chat app where users can enter a chat room using their name and the n
 - JavaScript (ReactJS and NodeJS)
 
 ## Screenshots
-![Screenshot (1)](Screenshot (1).png)
+!([Screenshot (1).png](https://github.com/kumaylm/RealtimeChatApp/blob/main/Screenshot%20(1).png))
 ![Screenshot (2)](Screenshot (2).png)
 ![Screenshot (3)](Screenshot (3).png)
 ![Screenshot (4)](Screenshot (4).png)

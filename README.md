@@ -6,13 +6,13 @@ A realtime chat app where users can enter a chat room using their name and the n
 - Name of user who sent the message
 - Time the message is sent
 
-## Languages Used:
+## Languages Implemented:
 - HTML
 - CSS
 - JavaScript (ReactJS and NodeJS)
 
 ## Screenshots
-!([Screenshot (1).png](https://github.com/kumaylm/RealtimeChatApp/blob/main/Screenshot%20(1).png))
+![Screenshot (1)](https://user-images.githubusercontent.com/78344685/173985186-9ae0e60a-786a-4c3d-9873-fdba699f3b4b.png)
 ![Screenshot (2)](Screenshot (2).png)
 ![Screenshot (3)](Screenshot (3).png)
 ![Screenshot (4)](Screenshot (4).png)

@@ -1,5 +1,5 @@
 # A Realtime Chat App
-A chat app where users can enter a chat room using their name and the name of the chat room, and chat with everyone present in the room in real time.
+A chat app where users can enter a chat room with their username and the room ID, and chat with everyone present in the room in real time.
 
 ## Information the Messages Include:
 - Content of message

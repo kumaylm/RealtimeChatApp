@@ -9,7 +9,8 @@ A chat app where users can enter a chat room with their username, and the room I
 ## Languages Implemented:
 - HTML
 - CSS
-- JavaScript (ReactJS and NodeJS)
+- React.js 
+- Node.js
 
 ## Screenshots
 ![Screenshot (2)](https://user-images.githubusercontent.com/78344685/173985357-cd9a9436-b98d-45dd-a288-e52041991d45.png)
